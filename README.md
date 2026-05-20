@@ -49,13 +49,25 @@ Built an interactive Power BI dashboard integrating SQL, DAX, and Python forecas
 ## Dashboard Preview
 
 ### Intro Page
-![Intro](images/intro-page.png)
+![Intro](report%20images/Intro.png)
 
 ### Overview Page
-![Overview](images/overview-page.png)
+![Overview](report%20images/Overview.png)
+
+### Product Page
+![Product](report%20images/Product.png)
+
+### Customer Page
+![Customer](report%20images/Customer.png)
+
+### Store Page
+![Store](report%20images/Store.png)
+
+### Forecast Page
+![Forecast](report%20images/Forecast.png)
 
 ### Insights Page
-![Insights](images/insights-page.png)
+![Insights](report%20images/Insights.png)
 
 ---
 
