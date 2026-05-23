@@ -73,13 +73,18 @@ Built an interactive Power BI dashboard integrating SQL, DAX, and Python forecas
 ## Repository Contents
 
 ```plaintext
-├── power_apps_screenshots/
-│   ├── powerapps_form_1.png
-│   ├── powerapps_form_2.png
-│   └── kpi_dashboard.png
+├── report_images/
+│   ├── Intro.png
+│   ├── Overview.png
+│   └── Products.png
+│   └── Customers.png
+│   └── Stores.png
+│   └── Insights.png
+│   └── Forecast.png
 │
-├── excel_report/
-│   └── engineering_kpi_report.xlsx
+├── SQL_data_merged.sql
+│
+├── chocolate_sales_farecasting.ipynb
 │
 └── README.md
 ```
