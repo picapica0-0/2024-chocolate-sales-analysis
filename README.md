@@ -70,7 +70,21 @@ Built an interactive Power BI dashboard integrating SQL, DAX, and Python forecas
 ![Insights](report%20images/Insights.png)
 
 ---
+## Repository Contents
 
+```plaintext
+├── power_apps_screenshots/
+│   ├── powerapps_form_1.png
+│   ├── powerapps_form_2.png
+│   └── kpi_dashboard.png
+│
+├── excel_report/
+│   └── engineering_kpi_report.xlsx
+│
+└── README.md
+```
+
+---
 ## Note
 
 Dataset sourced from Kaggle for educational and portfolio purposes. Data source: https://www.kaggle.com/datasets/ssssws/chocolate-sales-dataset-2023-2024?resource=download
